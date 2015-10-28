@@ -50,3 +50,10 @@
 
 
 // add flux to our chat project
+
+
+////////////////////////////////////
+// MINI PROJECT (IF TIME)
+////////////////////////////////////
+
+// https://github.com/ReactWeek/mini3-todofire
