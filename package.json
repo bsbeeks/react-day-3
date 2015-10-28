@@ -1,0 +1,15 @@
+{
+  "name": "router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "dependencies": {
+    "jquery": "^2.1.3",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.12.2",
+    "webpack": "^1.5.3"
+  }
+}
