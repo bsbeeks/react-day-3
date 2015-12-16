@@ -22,7 +22,7 @@
 ////////////////////////////////////
 
 
-// run `npm install react-router --save` to bring in react-router to our project
+// run `npm install history@1.13.1 react-router@latest --save` to bring in react-router to our project
 // include Router, Route, and Link from the react-router module
 
 // replace the <a> tags with <Link> tags
@@ -49,11 +49,8 @@
 ////////////////////////////////////
 
 
-// add flux to our chat project
-
-
 ////////////////////////////////////
-// MINI PROJECT (IF TIME)
+// QUESTIONS / REQUESTS / PROJECT
 ////////////////////////////////////
 
 // https://github.com/ReactWeek/mini3-todofire
