@@ -5,7 +5,6 @@ var Contact = React.createClass({
     return (
       <div>
         Contact
-        <div>{this.props.children}</div>
       </div>
     );
   }
