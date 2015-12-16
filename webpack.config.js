@@ -1,11 +1,17 @@
 module.exports = {
-  entry: "./app/App.js",
+  entry: './app/App.js',
   output: {
-    filename: "public/bundle.js"
+    path: './public',
+    filename: 'bundle.js'
   },
   module: {
     loaders: [
-      {test: /\.js$/, loader: 'jsx-loader'}
+      {
+        test: /\.js$/,
+        include: /app/,
+        exclude: /node_modules/,
+        loader: 'babel?presets[]=react'
+      }
     ]
   }
 };
